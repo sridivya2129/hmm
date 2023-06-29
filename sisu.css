@@ -1,0 +1,50 @@
+
+.logo_sizing{
+    height : 80px;
+    width : 80px;
+}
+#id1{
+    color : black;
+    font-family : sans-serif fantasy;
+    margin-right:20px;
+}
+#id2{
+    color : black;
+    font-family : Sans-serif fantasy;
+    margin-right:20px;
+}
+#id3{
+    color : black;
+    font-family : sans-serif fantasy;
+    margin-right:20px;
+}
+#search_navbar{
+    width : 50vw;
+    border-radius : 20px;
+    padding-left:30px;
+}
+.search_button{
+    background-color:deepskyblue;
+    padding:5px;
+    padding-left:15px;
+    padding-right:15px;
+    border-radius:20px;
+    border-width:0px
+
+}
+.bg-colour {
+    background-color: skyblue;
+    padding-top: 20px;
+}
+
+.img-size {
+    width: 100%;
+    height: 60%;
+}
+
+.names {
+    font-family: Sans-serif fantasy;
+    font: size 20px;
+    text-align: center;
+    color: black
+}
